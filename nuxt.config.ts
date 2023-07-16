@@ -3,12 +3,12 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/color-mode', '@nuxtjs/tailwindcss'],
   app: {
     head: {
-      title: "Schoolaid",
+      title: "Bagheera´s Shop",
       link: [
         {
           rel: "icon",
           type: "image",
-          href: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/1200px-Circle-icons-tools.svg.png",
+          href: "https://static.vecteezy.com/system/resources/previews/006/324/189/non_2x/illustration-of-a-silhouette-of-a-black-cat-vector.jpg",
         },
       ],
     },
