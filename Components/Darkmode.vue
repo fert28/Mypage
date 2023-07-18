@@ -1,8 +1,7 @@
 <template>
     <div>
-      <h1>Color mode: {{ $colorMode.value }}</h1>
-      <select v-model="$colorMode.preference" class="bg-red-400">
-        <option value="system">System</option>
+      <select v-model="$colorMode.preference" class="inline-flex text-base border-transparent rounded-full focus:outline-none focus:border-gray-300 transition text-black">
+        <option value="system"></option>
         <option value="light">Light</option>
         <option value="dark">Dark</option>
         <option value="sepia">Sepia</option>

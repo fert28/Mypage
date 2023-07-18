@@ -7,11 +7,11 @@ export default{
 }
 </script>
 <template>
-<div class="flex flex-wrap h-screen">
-  <section class="relative mx-auto">
+<div class="flex flex-wrap">
+  <section class="bg-gray-900 text-white w-screen overflow-hidden">
    
-    <nav class="flex justify-between bg-gray-900 text-white w-screen">
-      <div class="px-5 xl:px-12 py-6 flex w-full items-center">
+    <nav class="flex justify-between">
+      <div class="px-5 xl:px-12 py-3 flex w-full items-center">
         <a class="text-3xl font-bold font-heading" href="#">
         
           Logo Here.
@@ -40,7 +40,7 @@ export default{
                 </span>
               </span>
           </a>
-          <Darkmode />
+          <!--<Darkmode />-->
         </div>
       </div>
       
