@@ -1,8 +1,13 @@
 <template>
-    <section >
-        <h1>Te amo</h1>
-        <div class="flex items-center mx-auto">
-<!--<img src="/assets/heroimg.jpg" alt="" srcset="">-->
-        </div>
-    </section>
+  <section class="flex flex-col items-center justify-center h-screen">
+    <div class="lg:w-96 w-72">
+      <img
+        src="/assets/heroimg.jpg"
+        class="rounded-[0.8rem] w-full h-full object-cover"
+      />
+    </div>
+    <div class="z-40 -mt-32">
+      <h1>TE AMO</h1>
+    </div>
+  </section>
 </template>

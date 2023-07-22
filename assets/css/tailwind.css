@@ -7,3 +7,6 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.bg-colors{
+    @apply bg-gradient-to-r from-sky-100 via-rose-300 to-orange-200
+}

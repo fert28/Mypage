@@ -10,7 +10,7 @@ export default{
 <div class="flex flex-wrap">
   <section class="bg-gray-900 text-white w-screen overflow-hidden">
    
-    <nav class="flex justify-between">
+    <nav class="flex justify-between bg-red-300">
       <div class="px-5 xl:px-12 py-3 flex w-full items-center">
         <a class="text-3xl font-bold font-heading" href="#">
         
