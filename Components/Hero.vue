@@ -7,7 +7,7 @@
       />
     </div>
     <div class="z-40 -mt-32">
-      <h1>TE AMO</h1>
+      <h1>El arte de cuidar tu piel</h1>
     </div>
   </section>
 </template>
